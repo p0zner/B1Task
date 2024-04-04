@@ -1,0 +1,41 @@
+body {
+	font-family: Arial;
+	font-size: 0.9em;
+	margin: 30px auto;
+}
+
+#userTable {
+	margin-top: 40px;
+	font-size: 1.0em;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+#userTable th {
+	background: #f0f0f0;
+	border-bottom: 2px solid #dddddd;
+	padding: 10px;
+	text-align: left;
+}
+
+#userTable td {
+	background: #FFF;
+	border-bottom: 1px solid #dddddd;
+	padding: 8px;
+	text-align: left;
+}
+
+label {
+	margin-bottom: 5px;
+	display: inline-block;
+	font-weight: normal;
+}
+
+.row {
+	border: #e0dfdf 1px solid;
+	padding: 30px 30px 10px 30px;
+	border-radius: 15px;
+	text-align: center;
+	margin: 10px auto;
+	width: 350px;
+}
